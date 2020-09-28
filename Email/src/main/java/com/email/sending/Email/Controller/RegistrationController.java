@@ -31,6 +31,6 @@ public class RegistrationController {
 
 		notificationService.sendNotification(user);
 
-		return "Thank you for registerating with us";
+		return "ThankYou for registerating with us";
 	}
 }
